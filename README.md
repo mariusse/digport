@@ -1,3 +1,5 @@
+You could run nslookup, note down all the resolving IPs and then telnet each of them, but this does both at the same time
+
 ```
 ./digport aws.com 443     
 Timeout is set to  2s  seconds.
