@@ -1,6 +1,6 @@
 # digport
 
-You could run nslookup, note down all the resolving IPs and then telnet each of them, but this does both at the same time
+You could run `nslookup`, note down all the resolving IPs and then `telnet` each of them, but this does both at the same time
 
 ```text
 ./digport aws.com 443  
